@@ -1,0 +1,415 @@
+[{
+  "_id": {
+    "$oid": "6756bc250eb936fa48cb34fe"
+  },
+  "title": "Crêpes au rhum",
+  "preparationTime": 10,
+  "ingredients": [
+    "5 cl de rhum",
+    " 50g de beurre fondu",
+    " 2 cuillères à soupe d'huile",
+    " 3 cuillères à soupe de sucre",
+    " 300g de farine",
+    " 3 oeufs entiers",
+    " 60cl de lait"
+  ],
+  "type": "Pâtisserie",
+  "category": "Dessert",
+  "img": "https://assets.afcdn.com/recipe/20211122/124598_w350h250c1cx3176cy2107.jpg",
+  "steps": [
+    "Etape 1 : Mettre la farine dans une terrine et former un puits",
+    " Etape 2 : Y Déposer les oeufs entiers le sucre l'huile et le beurre",
+    " Etape 3 : Mélanger délicatement avec un fouet en ajoutant au fur et à mesure le lait. La pâte ainsi obtenue doit avoir une consistance d'un liquide légèrement épais",
+    " Etape 4 : Parfumer de rhum",
+    " Etape 5 : Faire chauffer une poêle antiadhésive et la huiler très légèrement à l'aide d'un papier Essuie-tout. Y verser une louche de pâte; la répartir dans la poêle puis attendre qu'elle soit cuite d'un côté avant de la retourner. Cuire ainsi toutes les crêpes à feu doux."
+  ],
+  "portion": 15,
+  "advice": "Pour plus de goût plus ajouter plus de rhum",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6756c33a668883c2fb4e81b3"
+  },
+  "title": "Tiramisu",
+  "preparationTime": 15,
+  "ingredients": [
+    "30g de cacao amer",
+    " 24 biscuit à la cuillère",
+    " 100g de sucre roux",
+    " 3 oeufs",
+    " 1 sachet de sucre vanillé",
+    " 250g de mascarpone",
+    " 50cl de café noir "
+  ],
+  "type": "Pâtisserie",
+  "category": "Dessert",
+  "img": "https://assets.afcdn.com/recipe/20190529/93097_w350h250c1cx3008cy2008.jpg",
+  "steps": [
+    "Etape 1 : Séparer les blancs des jaunes d'oeufs ",
+    " Etape 2 : Mélanger les jaunes avec le sucre roux et le sucre vanillé",
+    " Etape 3 : Ajouter le mascarpone au fouet",
+    " Etape 4 : Monter les blancs en neige et les incorporer délicatement à la spatule au mélange précédent. Réserver.",
+    " Etape 5 :  Mouiller les biscuits dans le café rapidement avant d'en tapisser le fond du plat.",
+    " Etape 6 :  Recouvrir d'une couche de crème au mascarpone puis répéter l'opération en alternant couche de biscuits et couche de crème en terminant par cette dernière.",
+    " Etape 7 : Saupoudrer de cacao",
+    " Etape 8 : Mettre au réfrigérateur 4 heures minimum puis déguster frais."
+  ],
+  "portion": 4,
+  "advice": "Prendre du café fort, pas du café senseo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6756c934d7668b8cc7d26e0c"
+  },
+  "title": "Crème Patissière",
+  "preparationTime": 20,
+  "ingredients": [
+    "1 gousse de vanille",
+    " 200g de scure",
+    " 100g de farine",
+    " 1l de lait",
+    " 4 jaunes d'oeufs"
+  ],
+  "type": "Pâtisserie",
+  "category": "Dessert",
+  "img": "https://assets.afcdn.com/recipe/20221007/135812_w350h250c1cx708cy1612.jpg",
+  "steps": [
+    "Étape 1  Mélanger les jaunes d'oeuf avec le sucre. Battre au fouet jusqu'à que le mélange blanchisse.",
+    " Étape 2  Ajouter la farine et bien mélanger avec le mélange sucre/oeufs. Ajouter 1/2 verre de lait pour que le mélange soit plus liquide.",
+    "  Étape 3  Mettre à chauffer le lait. Lorsque le lait est tiède (au bout de 3-4 min) ajouter le mélange oeufs/farine/sucre/lait et la gousse de vanille fendue et grattée avec ses graines.",
+    " Étape 4 Mélanger au fouet jusqu'à ébullition.",
+    " Étape 5 A ce moment là; votre crème sera déjà bien épaisse et vous pouvez arrêter la cuisson."
+  ],
+  "portion": 6,
+  "advice": "Faire brûler du sucre au dessus avant de servir",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6756cee9d7668b8cc7d26e0f"
+  },
+  "title": "Moules marinières",
+  "preparationTime": 60,
+  "ingredients": [
+    "poivre",
+    "sel",
+    "persil",
+    "1 cuillère à café rase de farine",
+    "30g de beurre ou de margarine",
+    "2 échalotes",
+    "4l de moules",
+    "15cl de vin blanc sec"
+  ],
+  "type": "Française",
+  "category": "Plat",
+  "img": "https://assets.afcdn.com/recipe/20221013/136163_w350h250c1cx3072cy1728.jpg",
+  "steps": [
+    "Étape 1  Hachez les échalotes.",
+    "  Étape 2  Grattez bien et lavez les moules. Mettez-les dans une cocotte avec 1 noix de beurre, les échalotes hachées et le vin blanc.",
+    "  Étape 3 Faites-les ouvrir dans la cocotte couverte, sur feu vif pendant quelques minutes. Mélangez 2 ou 3 fois pendant la cuisson.",
+    "  Étape 4  Dès qu'elles sont ouvertes, retirez les moules de la cocotte en conservant le jus de la cuisson. Déposez-les dans 1 plat creux et gardez-les au chaud.",
+    "  Étape 5  Remettez le jus sur le feu. Malaxez avec 1 fourchette 1 cuillerée à café de farine avec le même volume de beurre ou de margarine. Incorporez le tout au jus de la cuisson des moules sur le feu. Laissez bouillir un instant. Salez poivrez.",
+    "  Étape 6  Versez sur les moules. Saupoudrez de persil haché et servez."
+  ],
+  "portion": 4,
+  "advice": "Ne pas boire l'eau des moules",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6756da5fd7668b8cc7d26e12"
+  },
+  "title": "Pâte à pizza ",
+  "preparationTime": 20,
+  "ingredients": [
+    "1 sachet de levure boulangère",
+    " 2 cuillères à café de sel",
+    " 350g de farine +100g pour travailler la pâte",
+    " 3 cuillères à soupe d'huile d'olive",
+    " 25cl d'eau tiède"
+  ],
+  "type": "Italienne",
+  "category": "Plat",
+  "img": "https://assets.afcdn.com/recipe/20160531/11743_w350h250c1cx2000cy3000.jpg",
+  "steps": [
+    "Étape 1  Mettre 350 g de farine dans un grand saladier puis ajouter successivement le sel, la levure boulangère et l'huile d'olive.",
+    "  Étape 2  Verser petit à petit l'eau tiède tout en mélangeant avec une cuillère en bois.",
+    "  Étape 3 Remuer longuement jusqu'à obtention d'une pâte qui se détache du saladier.",
+    "  Étape 4 Laisser reposer la pâte pendant 1h en couvrant le saladier avec un torchon dans un endroit chaud.",
+    "  Étape 5  Après le temps de repos, déposer de la farine sur votre plan de travail y déposer la pâte à pizza.",
+    "  Étape 6 La travailler comme on travaillerait une pâte à pain.",
+    "  Étape 7 Façonner votre pizza aux dimensions de votre plaque à four où l'idéal, c'est de déposer la pâte sur du papier cuisson.",
+    "  Étape 8 Agrémenter votre pizza au grès de vos envies ou de vos restes dans le frigo."
+  ],
+  "portion": 4,
+  "advice": "Si vous souhaitez de la viande la précuire avant de la mettre au four lors de la cuisson de la pâte",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6756dba0d7668b8cc7d26e15"
+  },
+  "title": "Lasagne à la bolognaise",
+  "preparationTime": 125,
+  "ingredients": [
+    "125g de beurre",
+    " 100g de farine",
+    " poivre",
+    " sel",
+    " 70g de fromage râpé",
+    " 3 pincées de muscade râpée",
+    " thym",
+    " 2 feuilles de laurier",
+    " 20cl de vin rouge",
+    " 800g de purée de tomate",
+    " 1 carotte",
+    " 3 oignons jaunes",
+    " 1 paquet de lasagnes",
+    " 2 gousses d'ail",
+    " 1 branche de céleri",
+    " 600g de boeuf haché",
+    " 15cl d'eau",
+    " basilic",
+    " 125g de parmesan",
+    " 1l de lait"
+  ],
+  "type": "Italienne",
+  "category": "Plat",
+  "img": "https://assets.afcdn.com/recipe/20200408/109520_w350h250c1cx1866cy2800.jpg",
+  "steps": [
+    "Étape 1  Faire revenir gousses hachées d'ail et les oignons émincés dans un peu d'huile d'olive.",
+    "  Étape 2  Ajouter la carotte et la branche de céleri hachée puis la viande et faire revenir le tout.",
+    "  Étape 3  Au bout de quelques minutes, ajouter le vin rouge. Laisser cuire jusqu'à évaporation.",
+    "  Étape 4  Ajouter la purée de tomates, l'eau et les herbes. Saler, poivrer, puis laisser mijoter à feu doux 45 minutes.",
+    "  Étape 5  Préparer la béchamel : faire fondre 100 g de beurre.",
+    "  Étape 6  Hors du feu, ajouter la farine d'un coup.",
+    "  Étape 7 Remettre sur le feu et remuer avec un fouet jusqu'à l'obtention d'un mélange bien lisse.",
+    "  Étape 8  Ajouter le lait peu à peu.",
+    "  Étape 9 Remuer sans cesse, jusqu'à ce que le mélange s'épaississe.",
+    "  Étape 10  Ensuite, parfumer avec la muscade, saler, poivrer. Laisser cuire environ 5 minutes, à feu très doux, en remuant. Réserver.",
+    "  Étape 11  Préchauffer le four à 200°C (thermostat 6-7). Huiler le plat à lasagnes. Poser une fine couche de béchamel puis des feuilles de lasagnes, de la bolognaise, de la béchamel et du parmesan. Répéter l'opération 3 fois de suite.",
+    "  Étape 12  Sur la dernière couche de lasagnes, ne mettre que de la béchamel et recouvrir de fromage râpé. Parsemer quelques noisettes de beurre.",
+    "  Étape 13 Enfourner pour environ 25 minutes de cuisson.",
+    "  Étape 14 Déguster"
+  ],
+  "portion": 8,
+  "advice": "Utiliser un moule carré plutôt que rond",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6756dc55d7668b8cc7d26e17"
+  },
+  "title": "Gratin dauphinois",
+  "preparationTime": 85,
+  "ingredients": [
+    "poivre",
+    " sel",
+    " muscade",
+    " 100g de beurre",
+    " 1,5kg de pomme de terre",
+    " 2 gousses d'ail",
+    " 30cl de crème",
+    " 1l de lait"
+  ],
+  "type": "Française",
+  "category": "Plat",
+  "img": "https://assets.afcdn.com/recipe/20201217/116563_w350h250c1cx1116cy671.jpg",
+  "steps": [
+    "Étape 1  Eplucher, laver et couper les pommes de terre en rondelles fines (NB : ne pas les laver APRES les avoir coupées, car l'amidon est nécessaire à une consistance correcte).",
+    "  Étape 2  Hacher l'ail très finement.",
+    "  Étape 3  Porter à ébullition dans une casserole le lait, l'ail, le sel, le poivre et la muscade puis y plonger les pommes de terre et laisser cuire 10 à 15 min, selon leur fermeté.",
+    "  Étape 4  Préchauffer le four à 180°C (thermostat 6) et beurrer un plat à gratin à l'aide d'une feuille de papier essuie-tout.",
+    "  Étape 5  Placer les pommes de terre égouttées dans le plat. Les recouvrir de crème, puis disposer des petites noix de beurre sur le dessus.",
+    "  Étape 6  Enfourner pour 50 min à 1 heure de cuisson. Utiliser le lait restant de la cuisson des pommes de terre pour faire une soupe ou une purée dans la foulée.",
+    ""
+  ],
+  "portion": 6,
+  "advice": "Laisser reposer 5 minutes à température ambiante avant de servir",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675704f2d7668b8cc7d26e1a"
+  },
+  "title": "Bo Bun",
+  "preparationTime": 35,
+  "ingredients": [
+    "0.5 bol de vinaigre",
+    " 2 bols de sucre",
+    " 4 bols d'eau",
+    " 1 bol de nuoc mam",
+    " 1 sachet de vermicelles de riz",
+    " sel",
+    " poivre",
+    " 1 cuillère à soupe de curry doux en poudre",
+    " 700g de boeuf ",
+    " 1 gousse d'ail",
+    " 3 cuillières à soupe de sauce huitre",
+    " 3 cuillères de sauce soja",
+    " coriandre",
+    " batavia",
+    " 300g de soja",
+    " menthe",
+    " arachide",
+    " 8 nems "
+  ],
+  "type": "Asiatique",
+  "category": "Plat",
+  "img": "https://assets.afcdn.com/recipe/20180504/79026_w350h250c1cx3000cy2000.jpg",
+  "steps": [
+    "Étape 1  Cisailler la viande en tranches très fines, et faire mariner au frigo avec le curry, ail, glutamate et les sauces, au moins 30 mn",
+    "  Étape 2  Pendant ce temps préparer la sauce, si vous cuisinez souvent asiatique, doubler les proportions et conservez-là dans un bocal. Vous pouvez ajouter une pointe de piment (sauce chili) pour la parfumer. Faire bouillir tous les ingrédients et réserver",
+    "  Étape 3  Pour les vermicelles, faire bouillir une bonne casserole d'eau. Y plonger les vermicelles 3 à 4 mn. Egoutter et les ranger par poignée",
+    "  Étape 4 Faire revenir la viande dans un peu d'huile, à feu très fort et très brièvement : la viande doit être saisie simplement, pour la garder tendre",
+    "  Étape 5  Servir dans des grand bols de préférence : commencer par la batavia, le soja, puis 3 ou 4 poignées de vermicelles par personnes, 2 nems coupés petits morceaux par personne, la viande. Décorer avec la coriandre hachée, la menthe et quelques cacahuètes concassées (facultatif). Arroser de sauce et c'est prêt !"
+  ],
+  "portion": 4,
+  "advice": "Vous pouvez rajouter du piment pour plus de sensation",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67570612d7668b8cc7d26e1c"
+  },
+  "title": "Sushi californien",
+  "preparationTime": 35,
+  "ingredients": [
+    "0.5 cuillère à café",
+    " 1 cuillère à soupe de vinaigre de riz",
+    " 1 cuillère à soupe de sucre",
+    " sésame",
+    " 1 demi avocat",
+    " 1 quart de concombre",
+    " 1 boite de crabe",
+    " 2 feuilles de nori",
+    " 125g de riz rond",
+    " wasabi",
+    " sauce soja"
+  ],
+  "type": "Asiatique",
+  "category": "Plat",
+  "img": "https://assets.afcdn.com/recipe/20131025/16373_w350h250c1cx2138cy1425.jpg",
+  "steps": [
+    "Étape 1  Rincer le riz à l'eau froide jusqu'à ce que l'eau qui s'écoule soit claire. Laisser égoutter.",
+    "  Étape 2  Faire cuire le riz dans 15 cl d'eau : porter à ébullition 2 minutes et laisser gonfler 10 minutes à petit feu couvert. Laisser refroidir.",
+    "  Étape 3  Faire bouillir le vinaigre de riz avec le sucre et le sel. Laisser refroidir. Incorporer l'assaisonnement au riz.",
+    "  Étape 4  Emincer en fines et longues lamelles le concombre et l'avocat.",
+    "  Étape 5  Etaler 1 cm de riz sur chacune des feuilles de nori.",
+    "  Étape 6  Saupoudrer de graines de sésame.",
+    "  Étape 7  Retourner la feuille de nori (pour que le riz se retrouve à l'extérieur du rouleau) et étaler un peu wasabi.",
+    "  Étape 8  Garnir avec le concombre, l'avocat et le crabe, puis rouler pour former le rouleau (plus facile si vous poséder un makisu : natte de bambou à rouler).",
+    "  Étape 9 Couper chaque rouleau en 8."
+  ],
+  "portion": 4,
+  "advice": "La sauce soja peut être salé ou sucrée",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675706aad7668b8cc7d26e1e"
+  },
+  "title": "Glace à la vanille",
+  "preparationTime": 10,
+  "ingredients": [
+    "1 gousse de vanille",
+    " 6 cuillères à soupe de sucre",
+    " 25cl de crème fraiche liquide",
+    " 2 oeufs"
+  ],
+  "type": "Glace",
+  "category": "Dessert",
+  "img": "https://assets.afcdn.com/recipe/20230602/143206_w190h190c1cx2460cy1500.webp",
+  "steps": [
+    "Étape 1  Battre les jaunes d'œufs, 5 cuillères à soupe de sucre et les graines d'une gousse de vanille.",
+    "  Étape 2  Monter la crème liquide en chantilly puis l’incorporer à la préparation.",
+    "  Étape 3  Battre les 2 blancs d’œufs en neige, avec 1 cuillère à soupe de sucre.",
+    "  Étape 4 Bien mélanger à la préparation précédente puis verser le tout dans un récipient.",
+    "  Étape 5 Réserver au congélateur toute une nuit."
+  ],
+  "portion": 6,
+  "advice": "Avec une tarte tatin c'est encore meilleur !",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6757083cd7668b8cc7d26e22"
+  },
+  "title": "Entrée fraicheur",
+  "preparationTime": 15,
+  "ingredients": [
+    "3 tomates",
+    " 200g de fromage de chèvre",
+    " 4 cuillères à soupe de crème fraiche épaisse",
+    " 3 tranches de jambon de parme",
+    " 6 feuilles de basilic frais"
+  ],
+  "type": "Froide",
+  "category": "Entrée",
+  "img": "https://assets.afcdn.com/recipe/20170531/47505_w190h190c1cx2592cy1728.webp",
+  "steps": [
+    "Étape 1  Coupez les tomates en deux et videz-les. Découpez chaque tranche de jambon en quatre.",
+    "  Étape 2  Disposez un morceau de jambon au fond de la tomate.",
+    "  Étape 3  Mélangez la crème fraîche et le chèvre dans un bol.",
+    "  Étape 4  Mettez-en environ une cuiller à soupe dans chaque moitié de tomate.",
+    "  Étape 5  Ajoutez un deuxième morceau de jambon de Parme au-dessus de la crème de chèvre. Puis déposez une feuille de basilic.",
+    "  Étape 6 Assaisonnez, puis dégustez !"
+  ],
+  "portion": 6,
+  "advice": "Vous pouvez ajouter un peu de ciboulette",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675708b6d7668b8cc7d26e24"
+  },
+  "title": "Soupe à la bisque de homard",
+  "preparationTime": 40,
+  "ingredients": [
+    "3 cuillères à soupe de maïzena",
+    " 1 verre de crème fraîche",
+    " 450g de homard",
+    " 6 oeufs",
+    " 1 boîte de concentré de tomates"
+  ],
+  "type": "Chaude",
+  "category": "Entrée",
+  "img": "https://assets.afcdn.com/recipe/20170406/26377_w190h190c1cx2808cy1872.webp",
+  "steps": [
+    "Étape 1 Mixer le tout, mettre dans un moule à couronne bien beurré.",
+    "  Étape 2 Faire cuire au bain marie environ 30 minutes à 200°C (thermostat 7).",
+    "  Étape 3  Servir chaud accompagné d'une sauce à la crème avec du concentré de tomate et des petites crevettes."
+  ],
+  "portion": 6,
+  "advice": "Avec des croutons à l'ail c'est super !",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675fe63b5d677a62ad6d37fc"
+  },
+  "title": "Aubergine Parmigiana",
+  "preparationTime": 90,
+  "ingredients": [
+    "test",
+    " de ",
+    " produit"
+  ],
+  "type": "Italienne",
+  "category": "Plat",
+  "img": "https://assets.afcdn.com/recipe/20130909/19326_w350h250c1cx1500cy1123.jpg",
+  "steps": [
+    "Étape 1  Couper les aubergines en fines tranches dans le sens de la longueur et faites les dégorger avec le gros sel durant 20 minutes.",
+    "  Étape 2  Pendant ce temps, dans une casserole faites dorer l'ail avec 2 cuillères à soupe d'huile d'olive et ajoutez le vin, les tomates concassées ainsi que le concentré. Remuez et ajoutez l'eau. Salez, poivrez. Couvrez et laissez mijoter pendant 45 minutes à feux doux.",
+    "  Étape 3  Coupez la mozzarella en dés.",
+    "  Étape 4  Quand les aubergines ont bien dégorgé, faites-les dorer à la poêle avec un peu d'huile d'olive.",
+    "  Étape 5  Dès que la sauce tomate est prête, disposez dans un plat à gratin les tranches d'aubergines en alternance avec la mozzarella et la sauce tomate. Finissez avec une couche d'aubergines, la sauce tomate et du parmesan fraîchement râpé.",
+    "  Étape 6 Mettez au four à 210°C (thermostat 7) durant 20 minutes et voilà!",
+    ""
+  ],
+  "portion": 4,
+  "advice": "test 1",
+  "__v": 0
+}]

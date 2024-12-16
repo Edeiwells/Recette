@@ -1,0 +1,34 @@
+
+.recipe-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 2rem auto;
+  width: 100%;
+  max-width: 80rem;
+
+  @media (max-width: 1024px) { // Pour les tablettes
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: 768px) { // Pour les mobiles
+    grid-template-columns: 1fr;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+.favorite-button.disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.error-message {
+  grid-column: 1 / -1;
+  text-align: center;
+  font-size: 1.5rem;
+  color: red;
+}

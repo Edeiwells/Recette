@@ -1,0 +1,49 @@
+footer {
+    width: 100%;
+    background-color: #1c1c1c;
+    padding: 20px 0;
+    color: #ffffff;
+  
+    .container {
+      width: 1280px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  
+      .social-icons {
+        margin-bottom: 0; /* Supprimer la marge inférieure pour aligner les icônes */
+        
+        a {
+          color: #ffffff;
+          margin: 0 10px;
+          font-size: 24px;
+          transition: color 0.3s;
+          cursor: pointer;
+  
+          &:hover {
+            color: #ccc;
+          }
+        }
+      }
+  
+      .scroll-to-top {
+        background: none;
+        border: none;
+        color: #ffffff;
+        font-size: 24px;
+        cursor: pointer;
+        transition: color 0.3s;
+  
+        &:hover {
+          color: #ccc;
+        }
+      }
+    }
+  
+    p {
+      text-align: center;
+      margin-top: 20px;
+    }
+  }

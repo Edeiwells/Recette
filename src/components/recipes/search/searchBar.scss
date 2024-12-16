@@ -1,0 +1,50 @@
+.search-container {
+    position: relative;
+    flex: 1;
+  
+    input {
+      width: 100%;
+      padding: 0.5rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 1rem;
+    }
+  
+    .suggestions {
+      width: 100%;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      z-index: 1000;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      max-height: 200px;
+      overflow-y: auto;
+      display: flex;
+      flex-wrap: wrap; // Permet de passer à la ligne suivante après 5 éléments
+  
+      li {
+        flex: 1 1 20%; // Chaque élément occupe 20% de la largeur, donc 5 éléments par ligne
+        padding: 0.75rem 1rem;
+        border-bottom: 1px solid #ccc;
+        display: flex;
+        align-items: center;
+  
+        &:nth-child(5n) {
+          border-bottom: none; // Supprime la bordure inférieure pour le dernier élément de chaque ligne
+        }
+  
+        a {
+          text-decoration: none;
+          color: #333;
+          width: 100%;
+        }
+      }
+    }
+  }

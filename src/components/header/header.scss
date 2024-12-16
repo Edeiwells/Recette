@@ -1,0 +1,197 @@
+header {
+  width: 100%;
+  background-color: #1c1c1c;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+
+  nav {
+    width: 100%;
+    max-width: 80rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .logo-container {
+      display: flex;
+      align-items: center;
+      margin-right: 1rem;
+
+      .logo {
+        height: 200px; // Ajustez la hauteur du logo
+        width: 200px; // Ajustez la largeur du logo
+        object-fit: contain; // Assurez-vous que l'image conserve ses proportions
+      }
+    }
+
+    .search-container {
+      flex: 1;
+      position: relative;
+      display: flex;
+      justify-content: center; // Centrer l'input horizontalement
+
+      input {
+        width: 80%;
+        padding: 0.5rem;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 1rem;
+      }
+
+      .suggestions {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        max-height: 200px;
+        overflow-y: auto;
+
+        li {
+          padding: 0.5rem 0.5rem;
+          border-bottom: 1px solid #ccc;
+          display: flex;
+          align-items: center;
+
+          &:last-child {
+            border-bottom: none;
+          }
+
+          a {
+            text-decoration: none;
+            color: #333;
+            width: 100%;
+
+            &:hover {
+              color: #ccc;
+            }
+          }
+        }
+      }
+    }
+
+    ul {
+      list-style: none;
+      display: flex;
+      justify-content: space-around;
+      margin: 0;
+      padding: 0;
+      flex: 1;
+      justify-content: flex-end;
+
+      li {
+        margin: 0 1rem;
+
+        a {
+          color: #fff;
+          text-decoration: none;
+          font-size: 1.2rem;
+          position: relative;
+          transition: color 0.3s;
+
+          &.active::after,
+          &:hover::after {
+            content: '';
+            display: block;
+            width: 5px;
+            height: 5px;
+            background-color: white;
+            border-radius: 50%;
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+          }
+
+          &:hover {
+            color: #ccc;
+          }
+
+          &.active {
+            color: #ccc;
+          }
+        }
+      }
+    }
+
+    @media (max-width: 1024px) { // Pour les tablettes
+      flex-direction: column;
+      align-items: center; // Centrer les éléments verticalement
+
+      .logo {
+        display: none; // Masquer le logo sur les écrans de 1024px ou moins
+      }
+
+      .search-container {
+        width: 100%;
+        margin-bottom: 1rem;
+        justify-content: center; // Centrer l'input horizontalement
+
+        input {
+          width: 90%; // Réduire la largeur de l'input sur les tablettes
+        }
+      }
+
+      ul {
+        width: 100%;
+        justify-content: space-between;
+
+        li {
+          margin-right: 3rem; // Ajoutez une marge à droite pour les éléments de la liste
+        }
+      }
+    }
+
+    @media (max-width: 768px) { // Pour les mobiles
+      flex-direction: column;
+      align-items: flex-start;
+
+      .search-container {
+        width: 100%;
+        margin-bottom: 1rem;
+
+        input {
+          width: 80%; // Réduire la largeur de la barre de recherche sur les mobiles
+        }
+      }
+
+      ul {
+        width: 100%;
+        justify-content: space-between;
+
+        li {
+          margin-right: 3rem; // Ajoutez une marge à droite pour les éléments de la liste
+        }
+      }
+    }
+
+    @media (max-width: 480px) { // Pour les petits mobiles
+      width: 100%;
+      padding: 0.5rem;
+
+      .search-container {
+        input {
+          width: 80%; // Réduire la largeur de la barre de recherche sur les petits mobiles
+          font-size: 0.875rem;
+        }
+      }
+
+      ul {
+        flex-direction: column;
+        align-items: flex-start;
+
+        li {
+          margin: 0.5rem 0;
+        }
+      }
+    }
+  }
+}

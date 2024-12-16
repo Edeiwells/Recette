@@ -13,6 +13,7 @@ Installation
 
 git clone <URL_DU_PROJET>
 cd receipes
+npm run build
 
 Installer les dépendances pour le frontend :   
 
